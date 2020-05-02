@@ -1,0 +1,67 @@
+.red{
+	color:#ff0a0a;
+}
+.white{
+	color:#fff;
+}
+.browon{
+	color:#e49a4c;
+}
+.black{
+	color:#000;
+}
+.sky{
+	color:#0b063af2;
+}
+/*start*/
+.ban01 {
+	height: 97px;
+	width: 179px;
+	background: #fff;
+	margin: 27px 8px;
+}
+.ban02 {
+	background: url(02.png);
+	height: 97px;
+	width: 179px;
+	background-size: cover;
+	border: 2px solid #fff;
+}
+.rav {
+	font-size: 20px;
+	background: #00000078;
+	height: 24px;
+	width: 18px;
+	padding: 9px;
+}
+.mo {
+	margin: -24px 39px;
+	font-size: 13px;
+}
+.co {
+	font-size: 8px;
+	margin: 4px 41px;
+}
+.tax {
+	font-size: 40px;
+	margin: 29px 47px;
+	float: left;
+}
+.x {
+	font-size: 12px;
+	margin: 30px 1px;
+	height: 100px;
+	width: 292px;
+	float: left;
+}
+.xx {
+	background: #fc0707;
+	float: right;
+	margin: 29px 12px 1px;
+	padding: 7px;
+	text-decoration: none;
+	border: 1px solid #000;
+}
+.xy{
+	
+}
